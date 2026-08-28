@@ -1,6 +1,6 @@
 # pi-ctx
 
-Capture every LLM-bound prompt to disk, and optionally strip thinking/reasoning fields from the context sent to the provider. Designed for debugging context-window contents, replaying prompts offline, and shrinking wire payloads when chain-of-thought bloat is costing you tokens and context.
+Pi Agent extension to capture every LLM-bound prompt to disk, and optionally strip thinking/reasoning fields from the context sent to the provider. Designed for debugging context-window contents, replaying prompts offline, and shrinking wire payloads when chain-of-thought bloat is costing you tokens and context.
 
 ## Features
 
