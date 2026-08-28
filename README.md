@@ -84,6 +84,7 @@ The JSON written to `<cwd>/ctx/` is *exactly* what pi sent to the provider:
 
 - npm: https://www.npmjs.com/package/pi-ctx
 - GitHub: https://github.com/ashLatham/pi-ctx
+- Pi Agent: https://github.com/earendil-works/pi
 
 ## License
 MIT
