@@ -1,6 +1,6 @@
 {
   "name": "pi-ctx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pi extension that provides logging of the current context window with each llm call as well as ability to remove thinking/reasoning text from the context window.",
   "keywords": [
     "pi-package",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashLatham/pi-ctx.git"
+    "url": "git+https://github.com/ashLatham/pi-ctx.git"
   },
   "homepage": "https://github.com/ashLatham/pi-ctx",
   "bugs": {
